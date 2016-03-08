@@ -1,0 +1,10 @@
+Hello and welcome to the Gallery.
+
+In the room on your right you can find
+the paintings of Rembrandt.
+In the room on your left you can find
+the paintings made by Vincent Van Gogh.
+In the last room straight ahead you can 
+find paintings by various other artists.
+
+Have a nice time.
